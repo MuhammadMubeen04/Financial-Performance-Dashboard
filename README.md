@@ -113,7 +113,7 @@ python python/01_financial_analysis.py
 ![Budget vs Actual](images/powerbi/04_budget_vs_actual.png)
 
 ### SQL Analysis
-![Overall KPIs](images/sql/01_overall_kpis.png)
+![Overall KPIs](images/sql/01_overall_kpi.png)
 ![Monthly P&L](images/sql/02_monthly_pnl.png)
 ![Revenue by Category](images/sql/03_revenue_by_category.png)
 ![Expenses by Category](images/sql/04_expenses_by_category.png)
